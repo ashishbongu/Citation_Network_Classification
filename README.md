@@ -6,8 +6,8 @@ This project provides an Analysis on citation network classification using vario
 1.  **Baselines:** `GCN`, `GAT`, `SGC`, `APPNP`
 2.  **Advanced Architectures:** `MultiHopGAT`, `EFM` (Expert Fusion Model), `WR-EFM` (Wasserstein-Rubinstein EFM))
 
-<img width="300" height="300" alt="cora_tnse" src="https://github.com/user-attachments/assets/03bee222-052e-4413-a4a3-168dce78432e" />
-<img width="300" height="300" alt="dizz2" src="https://github.com/user-attachments/assets/5a566dbb-1b85-437b-a854-f8420843ff22" />
+<img width="400" height="400" alt="cora_tnse" src="https://github.com/user-attachments/assets/03bee222-052e-4413-a4a3-168dce78432e" />
+<img width="400" height="400" alt="dizz2" src="https://github.com/user-attachments/assets/5a566dbb-1b85-437b-a854-f8420843ff22" />
 
 
 
