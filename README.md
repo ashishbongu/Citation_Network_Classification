@@ -4,7 +4,12 @@
 
 This project provides an Analysis on citation network classification using various GNN Architectures on cora and pubMed datasets. Also on top of this analysis we have built a react based interface for PubMed, allowing users to find papers based not only on keywords, categories, and citation relationships. It includes AI-powered features to summarize individual abstracts and generate high-level trend reports for a given research field.
 1.  **Baselines:** `GCN`, `GAT`, `SGC`, `APPNP`
-2.  **Advanced Architectures:** `MultiHopGAT`, `EFM` (Expert Fusion Model), `WR-EFM` (Wasserstein-Rubinstein EFM)) 
+2.  **Advanced Architectures:** `MultiHopGAT`, `EFM` (Expert Fusion Model), `WR-EFM` (Wasserstein-Rubinstein EFM))
+
+<img width="500" height="500" alt="cora_tnse" src="https://github.com/user-attachments/assets/03bee222-052e-4413-a4a3-168dce78432e" />
+<img width="500" height="500" alt="dizz2" src="https://github.com/user-attachments/assets/5a566dbb-1b85-437b-a854-f8420843ff22" />
+
+
 
 The project is split into three main parts:
 * **`Project_Analysis/`**: Jupyter Notebooks used for initial data analysis.
@@ -26,10 +31,7 @@ The project is split into three main parts:
 ## Repository Structure
 ```
 Citation_Network_Classification/
-├── Project_Analysis/             (Might take some time to render)<img width="1580" height="1428" alt="cora_tnse" src="https://github.com/user-attachments/assets/03bee222-052e-4413-a4a3-168dce78432e" />
-<img width="1580" height="1428" alt="cora_tnse" src="https://github.com/user-attachments/assets/6b2d50bf-41e5-4b82-ab4d-4a1166623b65" />
-<img width="1580" height="1428" alt="dizz1" src="https://github.com/user-attachments/assets/c9148863-980a-4827-a6b9-194ca482cf80" />
- 
+├── Project_Analysis/             (Might take some time to render)
 │   ├── Cora_Analysis.ipynb
 │   └── PubMed_Analysis.ipynb
 │
