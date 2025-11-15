@@ -1,0 +1,24 @@
+{
+    "name": "pubmed-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@google/genai": "^1.29.1",
+        "@google/generative-ai": "^0.24.1",
+        "axios": "^1.6.8",
+        "cors": "^2.8.5",
+        "dotenv": "^17.2.3",
+        "express": "^4.19.2",
+        "react-router-dom": "^7.9.6",
+        "reactflow": "^11.11.4",
+        "xml2js": "^0.6.2"
+    }
+}
