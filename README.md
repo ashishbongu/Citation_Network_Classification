@@ -21,8 +21,8 @@ The project is split into three main parts:
 
 | Name | Roll Number | GitHub |
 | :--- | :--- | :--- |
-| BONGU ASHISH | 23BDS014 | [@ashishbongu](https://github.com/your-username) |
-| PB SHREYAS | 23BDS041 | [@shreyas7ss](https://github.com/member2-username) |
+| BONGU ASHISH | 23BDS014 | [@ashishbongu](https://github.com/ashishbongu) |
+| PB SHREYAS | 23BDS041 | [@shreyas7ss](https://github.com/shreyas7ss) |
 | TARAN JAIN | 23BDS062 | [@member3-username](https://github.com/member3-username) |
 
 
