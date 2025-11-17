@@ -23,7 +23,7 @@ The project is split into three main parts:
 | :--- | :--- | :--- |
 | BONGU ASHISH | 23BDS014 | [@ashishbongu](https://github.com/ashishbongu) |
 | PB SHREYAS | 23BDS041 | [@shreyas7ss](https://github.com/shreyas7ss) |
-| TARAN JAIN | 23BDS062 | [Taranjain](https://github.com/Taranjain) |
+| TARAN JAIN | 23BDS062 | [@Taranjain](https://github.com/Taranjain) |
 
 
 ---
